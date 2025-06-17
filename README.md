@@ -9,8 +9,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranav271103/pranav271103/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/pranav271103/pranav271103/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake animation dark" />
 </p>
+
 
 ---
 
