@@ -2,9 +2,17 @@
 <h3 align="center">🚀 AI Researcher | 🤖 Multimodal Architect | 🔐 Cybersecurity & Quantum ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5AE6FF&center=true&vCenter=true&width=800&lines=AI+%7C+Cyber+Security+%7C+Quantum+ML+%7C+Vision+Transformers+%7C+Multimodal+LLMs+%7C+Researcher+at+Tech+Mahindra" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pranav271103/pranav271103/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+  
 ---
 
 ## 🧠 About Me
@@ -12,16 +20,6 @@
 🎓 Final year B.Tech CSE student at **The NorthCap University**
 🧪 Currently an AI + Quantum ML Research Intern at **Tech Mahindra (Makers Lab)**  
 🌐 Cybersecurity Diamond League achiever @ **Google Cloud Skills Boost**  
-
----
-## 🧑‍💻 Retro Terminal Snapshot
-User: pranav271103
-OS: Kali/Ubuntu/Raspberry Pi
-Projects: GPT-Multimodal, ViT-DeepFake, CBSE-AI-Agent
-Languages: Python, Java, C
-GPU: Intel Arc A750
-Current Task: Final Year AI Projects & Research
-Uptime: ∞ hours building AI
 
 ---
 
