@@ -14,6 +14,16 @@
 🌐 Cybersecurity Diamond League achiever @ **Google Cloud Skills Boost**  
 
 ---
+## 🧑‍💻 Retro Terminal Snapshot
+User: pranav271103
+OS: Kali/Ubuntu/Raspberry Pi
+Projects: GPT-Multimodal, ViT-DeepFake, CBSE-AI-Agent
+Languages: Python, Java, C
+GPU: Intel Arc A750
+Current Task: Final Year AI Projects & Research
+Uptime: ∞ hours building AI
+
+---
 
 ## 🚀 Tech & Research Areas
 
