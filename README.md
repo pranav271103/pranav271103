@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Pranav Singh</h1>
-<h3 align="center">🚀 AI & Deep Learning Researcher | 🤖 Multimodals & LLM Architect | 🔐 Cybersecurity & Quantum ML Enthusiast</h3>
+<h3 align="center">🚀 AI & DL Researcher | 🤖 Multimodals & LLM Architect | 🔐 Cybersecurity & Quantum ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
