@@ -17,9 +17,9 @@
 
 ## 🧠 About Me
 
-🎓 Final year B.Tech CSE student at **The NorthCap University**
-🧪 Currently an AI + Quantum ML Research Intern at **Tech Mahindra (Makers Lab)**  
-🌐 Cybersecurity Diamond League achiever @ **Google Cloud Skills Boost**  
+- 🎓 Final year B.Tech CSE student at **The NorthCap University**
+- 🧪 Currently an AI + Quantum ML Research Intern at **Tech Mahindra (Makers Lab)**  
+- 🌐 GCP Diamond League achiever @ **Google Cloud Skills Boost**  
 
 ---
 
