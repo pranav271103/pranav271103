@@ -3,16 +3,15 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
-
+</p>
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranav271103/pranav271103/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/pranav271103/pranav271103/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
-  
 ---
 
 ## 🧠 About Me
