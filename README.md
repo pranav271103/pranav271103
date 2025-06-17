@@ -37,15 +37,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,linux,raspberrypi,vscode,gcp&theme=light" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-005571?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20Pro-000000?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-2C3E50?style=for-the-badge&logo=data&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLaMA2-6B7280?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAGs%20(Multimodal)-0F172A?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,c,html,css,git,linux,raspberrypi,vscode,gcp&theme=light" />
 </p>
 
 ---
