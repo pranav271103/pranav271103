@@ -97,8 +97,12 @@
   <a href="https://linkedin.com/in/pranavhere"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/pranav271103"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://instagram.com/_pranav2003"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
+  <a href="https://www.codechef.com/users/pranav22csu134" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/aebfcf81-7b87-44a1-a963-b23e8551cb34" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud%20Skills%20Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Skills Boost Badge" />
+  </a>
 </p>
 
 ---
