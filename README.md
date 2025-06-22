@@ -64,10 +64,12 @@
 
 | Project | Description |
 |--------|-------------|
-|  [Bank System in C](https://github.com/pranav271103/Bank-System) | C-based CLI app to manage banking data |
-|  [Productivity App](https://github.com/pranav271103/Productivity-Calculator-App.git) | Java GUI for productivity analytics |
-|  [Jarvis Desktop Assistant](https://github.com/pranav271103/Jarvis-Assistant.git) | Python-based assistant for automation |
 |  [Multimodal GPT](https://github.com/pranav271103/MultiModal-AI.git) | Cross-modal AI agent using Deep Learning stack |
+|  [Smart Scheduler AI Assistant](https://github.com/pranav271103/smart_scheduler_ai_agent) | AI-powered meeting scheduler |
+|  [PDF RAG with Ollama](https://github.com/pranav271103/ollama-pdf-rag) | (RAG) pipeline over PDF documents |
+|  [Jarvis Desktop Assistant](https://github.com/pranav271103/Jarvis-Assistant.git) | Python-based assistant for automation |
+|  [NCU Smart LLM](https://github.com/pranav271103/ncu-smartllm) | Smart LLM Fine-tuned for NCU Tasks |
+|  [LegalMind RAG](https://github.com/pranav271103/LegalMindRAG) | (RAG) pipeline for legal or business PDF documents|
 |  [ViT Deepfake Detector](https://huggingface.co/pranav2711/VisionTransformerDigitalForensics) | ViT + Optuna + HuggingFace deployment for forensics |
 
 ---
