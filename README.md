@@ -18,7 +18,7 @@
 ##  About Me
 
 -  Final year B.Tech CSE student at **The NorthCap University**
--  Currently an AI + Quantum ML Research Intern at **Tech Mahindra (Makers Lab)**  
+-  Currently an AI ML Research Intern at **Tech Mahindra (Makers Lab)**  
 -  GCP Diamond League achiever @ **Google Cloud Skills Boost**  
 
 ---
@@ -66,6 +66,7 @@
 |--------|-------------|
 |  [Multimodal GPT](https://github.com/pranav271103/MultiModal-AI.git) | Cross-modal AI agent using Deep Learning stack |
 |  [Smart Scheduler AI Assistant](https://github.com/pranav271103/smart_scheduler_ai_agent) | AI-powered meeting scheduler |
+|  [SlangBot - Conversational AI Agent](https://github.com/pranav271103/SlangBot) | NLP chatbot understanding informal GenZ slangs | 
 |  [PDF RAG with Ollama](https://github.com/pranav271103/ollama-pdf-rag) | (RAG) pipeline over PDF documents |
 |  [Jarvis Desktop Assistant](https://github.com/pranav271103/Jarvis-Assistant.git) | Python-based assistant for automation |
 |  [NCU Smart LLM](https://github.com/pranav271103/ncu-smartllm) | Smart LLM Fine-tuned for NCU Tasks |
