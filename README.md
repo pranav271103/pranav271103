@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=800&lines=AI+%26+Deep+Learning+Research;Multimodal+%26+LLM+Architecture;Cybersecurity+%26+Quantum+ML+Innovation;Building+intelligent+systems+for+tomorrow" alt="Typing SVG" />
 </div>
 
+
 ---
 
 <h1 align="center">Hi , I'm Pranav Singh</h1>
@@ -122,3 +123,8 @@
 <p align="center">
   <sub>© 2025 Pranav Singh | Licensed under the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License 2.0</a></sub>
 </p>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%" alt="Footer"/>
+</div>
