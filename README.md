@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pranav%20Singh&fontSize=80&animation=fadeIn&gradient=sunset" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pranav%20Singh&fontSize=80&animation=fadeIn&gradient=bluepurple" width="100%"/>
 </div>
 
 <h3 align="center">AI & DL Researcher | Multimodals & LLM Architect | Cybersecurity & Quantum ML Enthusiast</h3>
