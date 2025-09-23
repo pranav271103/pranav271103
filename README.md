@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranav%20Singh&fontSize=80&animation=fadeIn" width="100%"/>
 </div>
 
-<div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=800&lines=AI+%26+Deep+Learning+Research;Multimodal+%26+LLM+Architecture;Cybersecurity+%26+Quantum+ML+Innovation;Building+intelligent+systems+for+tomorrow" alt="Typing SVG" />
-</div>
-
 <h3 align="center">AI & DL Researcher | Multimodals & LLM Architect | Cybersecurity & Quantum ML Enthusiast</h3>
 
 <p align="center">
