@@ -1,10 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranav%20Singh&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20DL%20Researcher%20|%20Multimodals%20%26%20LLM%20Architect%20|%20Cybersecurity%20%26%20Quantum%20ML%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B42C&center=true&vCenter=true&width=800&lines=AI+%26+Deep+Learning+Research;Multimodal+%26+LLM+Architecture;Cybersecurity+%26+Quantum+ML+Innovation;Building+intelligent+systems+for+tomorrow" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranav%20Singh&fontSize=80&animation=fadeIn" width="100%"/>
 </div>
-
-
 ---
 
 <h1 align="center">Hi , I'm Pranav Singh</h1>
