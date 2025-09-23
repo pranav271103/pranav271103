@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pranav%20Singh&fontSize=80&animation=fadeIn" width="100%"/>
 </div>
----
 
-<h1 align="center">Hi , I'm Pranav Singh</h1>
 <h3 align="center">AI & DL Researcher | Multimodals & LLM Architect | Cybersecurity & Quantum ML Enthusiast</h3>
 
 <p align="center">
