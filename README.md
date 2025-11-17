@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pranav%20Singh&fontSize=80&animation=fadeIn&gradient=bluepurple" width="100%"/>
 </div>
 
-<h3 align="center">[AI & DL Researcher | Multimodals & LLM Architect | Cybersecurity & Quantum ML Enthusiast]("https://pranavsingh.site")</h3>
+<h3 align="center">AI & DL Researcher | Multimodals & LLM Architect | Cybersecurity & Quantum ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?
@@ -18,7 +18,7 @@
 
 ---
 
-##  About Me
+##  About Me - [Portfolio](https://pranavsingh.site)
 
 -  Final year B.Tech CSE student at **The NorthCap University**
 -  Currently an AI ML Research Intern at **Tech Mahindra (Makers Lab)**  
